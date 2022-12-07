@@ -1,1 +1,1 @@
-https://Vertib.github.io/rsschool-cv/cv
+https://vertib.github.io/rsschool-cv/cv
