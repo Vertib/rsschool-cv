@@ -1,4 +1,4 @@
-![Me](cv.jpeg "Me")
+![Me](img/cv.jpeg "Me")
 # Nikita Aksenkin
 # My Contact Info:
 * E-mail: vertibs@gmail.com
