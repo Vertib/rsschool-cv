@@ -42,7 +42,7 @@ def derive(coefficient, exponent):
     - Bachelor’s Degree in Control in Engineering Systems
 
 # Experience
-* **Sigma** – Software Engineer (Oct.	2021 - July 2022)
+* **Sigma** – System Analyst (Oct. 2021 - July 2022)
 * **Astral Kaluga** – System Analyst (since Oct. 2022)
 
 # Languages
